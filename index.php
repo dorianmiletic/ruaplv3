@@ -47,7 +47,7 @@
 </form>
 
 <?php
-// DB connection info
+// DB connection infooooooooooooooooooooooooooooooooooooooo
 $host = "dmiletic-d0a8htgxfffxdtfy.polandcentral-01.azurewebsites.net";
 $user = "hcvayubymh";
 $pwd = '9cunc$R70uU8I8ir';
